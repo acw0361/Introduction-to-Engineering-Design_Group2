@@ -9,4 +9,4 @@ https://docs.google.com/spreadsheets/d/1BLLYAngPI91BJ4gbSqxpgAUUDn6DD-H0Hy62U_SR
 
 
 
-![model](/temp.PNG)
+![model](/temp.jpg)
