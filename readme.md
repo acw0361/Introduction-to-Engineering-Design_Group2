@@ -2,7 +2,7 @@
 
 
 # Introduction-to-Engineering-Design_Group2
-# Group Name :  <img src = "https://user-images.githubusercontent.com/70438730/101650522-5c603a80-3a7f-11eb-9f09-7f3db42170ed.png" width="15%">
+# Group Name :  <img src = "https://user-images.githubusercontent.com/70438730/101650522-5c603a80-3a7f-11eb-9f09-7f3db42170ed.png" width="15%"> 조
 
 ## **Problem Statement**
 음압병실 속에서 격리된 생활로 인한 직접적인 소통불가와 고립감 
