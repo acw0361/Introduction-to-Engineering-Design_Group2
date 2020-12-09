@@ -9,5 +9,4 @@
 
 
 
-![temp](https://user-images.githubusercontent.com/70438730/101646551-02f60c80-3a7b-11eb-9455-de0eadf32b47.jpg){: width="100" height="100"}
-
+<img src = "https://user-images.githubusercontent.com/70438730/101646551-02f60c80-3a7b-11eb-9455-de0eadf32b47.jpg" width="40%">
