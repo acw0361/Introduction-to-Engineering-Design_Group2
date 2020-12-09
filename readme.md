@@ -52,6 +52,8 @@
 ## Model Preview
 <img src = "https://user-images.githubusercontent.com/70438730/101646551-02f60c80-3a7b-11eb-9455-de0eadf32b47.jpg" width="80%">
 
+## Model 3D Simulation
+[3D Model Simulation Video](https://youtu.be/gG5fve6AzOc?t=5373)
 ## 구조 상세 설명
 해당 사진은 저희 설계한 음압병실 구조의 청사진입니다. 총 4개의 음압병실이 붙어 있는 구조이며 각 병실에는 화장실이 포함되어 있습니다. 각 두 방은 하나의 전실을 사용합니다. 
 내부 벽을 콘크리트가 아닌 투명한 유리창으로 바꾸어 옆 사람과의 소통이 가능하게 만들었습니다.
