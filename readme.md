@@ -4,8 +4,11 @@
 # Introduction-to-Engineering-Design_Group2
 # Group Name :  <img src = "https://user-images.githubusercontent.com/70438730/101650522-5c603a80-3a7f-11eb-9f09-7f3db42170ed.png" width="15%"> 조
 
+## 2조 발표 Youtube Link 
+[음암병실 문제점 발표영상](https://youtu.be/gG5fve6AzOc?t=5373)
+
 ## Problem Statement
-### 음압병실 속에서 격리된 생활로 인한 직접적인 소통불가와 고립감 
+#### 음압병실 속에서 격리된 생활로 인한 직접적인 소통불가와 고립감 
 현 음압병실의 여러 문제점들 중 격리, 폐쇄로 인한 증상 악화가 가장 심각한 문제점이라고 판단하였습니다. 
 음압병실에 들어가는 환자들은 감염병에 걸린 환자들이기 이전에 정신질환자들 입니다. 물론 감염병의 치료 또한 중요하지만 
 정신질환이 이 치료 동안에 만약 격리, 폐쇄로 인해 증상이 더 악화된다면 환자의 상태를 악화시키는 일이며, 
@@ -18,8 +21,7 @@
 고립감을 해결하는 방안에는 다양한 방안이 있었는데 저흰 그중 가장 효과적인 방법이 소통하는 것이라고 판단했습니다.
 
 
-## 2조 발표 Youtube Link 
-[음암병실 문제점 발표영상](https://youtu.be/gG5fve6AzOc?t=5373)
+
 
 ## Objectives and Function
 * 고립감 해소 가능한 음압병실
