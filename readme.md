@@ -44,6 +44,13 @@
 - Constraint #5 치료에 필요한 의료진의 수가 기존에 비해 줄어야 한다.
 
 
+# Morphological Chart
+기능/수단|	1|	2|	3|	4|	5|
+---|---|---|---|---|---|
+분리벽|	강화유리 + 커튼| 플라스틱 벽 + 커튼	|스마트 필름	|"	|"|
+소통방식|	접촉가능|	마이크 |	ZOOM|	"|	"|
+병실 구조|	+	|※	|*	|# |	육각형|
+
 
 ## Gantt chart Link  
 [GANTT CHART LINK](https://docs.google.com/spreadsheets/d/1BLLYAngPI91BJ4gbSqxpgAUUDn6DD-H0Hy62U_SRgtg/edit#gid=1688732048)
