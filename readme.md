@@ -1,9 +1,27 @@
 # Introduction-to-Engineering-Design_Group2
+# Group Name : 
+
+$$
+a/b
+$$
+
 
 ## **Problem Statement**
 음압병실 속에서 격리된 생활로 인한 직접적인 소통불가와 고립감 
 ## 2조 발표 Youtube Link 
 [음암병실 문제점 발표영상](https://youtu.be/gG5fve6AzOc?t=5373)
+
+## Objectives and Function
+* 고립감 해소 가능한 음압병실
+  * 치료가능성
+    * 소통을 통한 불안 증세 완화
+    * 집단치료 가능
+  * 편의성
+    * 의료진의 거리 이동시간 단축
+  * 경제성
+    * 치료에 필요한 의료진의 수 기존 대비 감축
+   
+
 ## Gantt chart Link  
 [GANTT CHART LINK](https://docs.google.com/spreadsheets/d/1BLLYAngPI91BJ4gbSqxpgAUUDn6DD-H0Hy62U_SRgtg/edit#gid=1688732048)
 
