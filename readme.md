@@ -20,6 +20,17 @@
     * 치료에 필요한 의료진의 수 기존 대비 감축
    
 
+## Set limits or boundaries
+
+
+- Constraint #1 우울증, 불안증세가 완화되어야 한다.
+- Constraint #2 개인 프라이버시가 보장되어야 한다.
+- Constraint #3 집단치료시 최소 2명이상 가능해야 한다.
+- Constraint #4 의료진의 이동거리가 기존에 비해 줄어야 한다.
+- Constraint #5 치료에 필요한 의료진의 수가 기존에 비해 줄어야 한다.
+
+
+
 ## Gantt chart Link  
 [GANTT CHART LINK](https://docs.google.com/spreadsheets/d/1BLLYAngPI91BJ4gbSqxpgAUUDn6DD-H0Hy62U_SRgtg/edit#gid=1688732048)
 
