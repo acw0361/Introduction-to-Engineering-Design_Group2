@@ -55,6 +55,9 @@
 ## Gantt chart Link  
 [GANTT CHART LINK](https://docs.google.com/spreadsheets/d/1BLLYAngPI91BJ4gbSqxpgAUUDn6DD-H0Hy62U_SRgtg/edit#gid=1688732048)
 
+## PCM 
+![pcm](https://user-images.githubusercontent.com/70438730/101722271-340f2500-3aed-11eb-9a5b-389202b885d3.PNG)
+
 
 ## Model Preview
 <img src = "https://user-images.githubusercontent.com/70438730/101646551-02f60c80-3a7b-11eb-9455-de0eadf32b47.jpg" width="80%">
@@ -77,4 +80,7 @@
 - 환자간 유대감 형성을 통한 스트레스 지수가 저하
 - 치료의 불안감 감소 
 - 기존 음압병실 대비 정신 질환 환자의 치유 속도가 개선
-- 의료진과 환자의 대면 소통 편리해짐 
+- 의료진과 환자의 대면 소통 편리해짐
+
+## Final Presentation
+[Final Presentation Youtube Link](https://youtu.be/t1YCeOMOc8k)
